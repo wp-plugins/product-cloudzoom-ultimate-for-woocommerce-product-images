@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate WooCommerce Cloud Zoom PRO\n"
+"POT-Creation-Date: 2015-07-15 19:20+0200\n"
+"PO-Revision-Date: 2015-07-15 19:20+0200\n"
+"Last-Translator: dedalx <dedalx.rus@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: mgwoocommercecloudzoom-admin.php:69
+msgid "CloudZoom"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:106
+msgid "General Options"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:111
+msgid "Zoom Window Position"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:115
+msgid "CloudZoom Window Position."
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:117
+msgid "Left"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:118
+msgid "Right"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:119
+msgid "Top"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:120
+msgid "Bottom"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:121
+msgid "Inside"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:125
+msgid "Zoom Window Width"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:132
+msgid "Zoom Window Height"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:140
+msgid "Adjust X"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:144
+msgid "Change horizontal zoom window position"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:148
+msgid "Adjust Y"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:152
+msgid "Change vertical zoom window position"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:156
+msgid "Tint Color"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:160
+msgid "Overlay tint color in HEX format, for example \"#eeeeee\""
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:164
+msgid "Tint Opacity"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:168
+msgid "Tint opacity from 0.0 to 1.0"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:172
+msgid "Lens Opacity"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:176
+msgid "Lens opacity from 0.0 to 1.0"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:180
+msgid "Soft focus"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:184
+msgid "Add blur effect to image"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:186 mgwoocommercecloudzoom-admin.php:206
+msgid "Enable"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:187 mgwoocommercecloudzoom-admin.php:207
+msgid "Disable"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:192
+msgid "Smoothing"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:196
+msgid ""
+"Zoom image smoothing animation, integer value, higher values results in more "
+"smoother movement. 1 - turn off."
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:200
+msgid "Show image title"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:212
+msgid "Title Opacity"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:216
+msgid "Title opacity from 0.0 to 1.0"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:220
+msgid "Thubmnails mouse event to change main image for zoom"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:226
+msgid "Mouse Hover"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:227
+msgid "Mouse Click"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:233
+msgid "Advanced settings (for power users)"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:238
+msgid "Thumbnails Container"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:242
+msgid ""
+"JQuery selector for product thumbnails container with A links for images "
+"inside. You can use this option if your theme changed default WooCommerce "
+"HTML markup for product page and plugin does not work for you. Default "
+"value: \".product .thumbnails\"."
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:245
+msgid "Single Thumbnail Container"
+msgstr ""
+
+#: mgwoocommercecloudzoom-admin.php:249
+msgid ""
+"JQuery selector for product thumbnail container with IMG tag inside. You can "
+"use this option if your theme changed default WooCommerce HTML markup for "
+"product page and plugin does not work for you. Default value: \".product ."
+"images > a\"."
+msgstr ""
+
+#: mgwoocommercecloudzoom.php:216
+msgid "Settings"
+msgstr ""
+
+#: mgwoocommercecloudzoom.php:225
+msgid "Visit Premium Customer Support Ticket System"
+msgstr ""
+
+#: mgwoocommercecloudzoom.php:225
+msgid "Premium Support"
+msgstr ""
+
+#: mgwoocommercecloudzoom.php:226
+msgid "Premium WordPress themes"
+msgstr ""
